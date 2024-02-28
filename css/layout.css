@@ -36,7 +36,7 @@ body, html { overflow: hidden; }
 html,body{
 	width:100%;
 	height:100%;
-	background:#665a7e;
+	background:#000000;
 	color:white;
 	-webkit-transition: background 0.6s;
 	-moz-transition: background 0.6s;
@@ -564,7 +564,7 @@ left: 0;
 	position:relative;
 	margin:0 auto;
 	width:100%;
-	background:rgba(102,90,126,.8);
+	background:rgba(0,0,0,.8);
 	border-radius:5px;
 	overflow:hidden;
 	margin-bottom:10px;
@@ -762,7 +762,7 @@ left: 0;
 
 .link-box{
 	position:relative;
-	background:#665377;
+	background:#000000;
 	padding:20px;
 	border-radius:5px;
 }
@@ -791,7 +791,7 @@ left: 0;
 	width:100%;
 }
 .purple{
-	background:rgba(102,90,126,.4);
+	background:rgba(0,0,0,.4);
 	top: 0; 
 	left: 0; 
 	right: 0;
@@ -840,7 +840,7 @@ left: 0;
 
 .one-work .mask{
 	position:absolute;
-	background: #665a7e url('../images/plus.png') no-repeat center center;
+	background: #000000 url('../images/plus.png') no-repeat center center;
 	overflow:hidden;
 	display: block; 
 	width:100%;
@@ -869,7 +869,7 @@ left: 0;
 	z-index:6;
 	left:0;
 	bottom:-60px;
-	background:rgba(102,90,126,.6);
+	background:rgba(0,0,0,.6);
     -webkit-transition: all 300ms linear;
     -moz-transition: all 300ms linear;
     -o-transition: all 300ms linear;
@@ -979,6 +979,7 @@ left: 0;
   height: 100%;
   margin: 0 auto;
 }
+
 .overlay{
   display:block;
   z-index:10;
@@ -1012,7 +1013,7 @@ left: 0;
 .contact-wrap{
 	position:absolute;
 	width:400px;
-	background:rgba(102,90,126,.9);
+	background:rgba(0,0,0,.9);
 	border-radius:5px;
 	overflow:hidden;
 	padding:25px;
